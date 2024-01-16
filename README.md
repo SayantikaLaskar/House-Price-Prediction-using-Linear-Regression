@@ -1,4 +1,4 @@
-#**🏡 House Price Prediction Project 📈**
+#🏡House Price Prediction Project 📈
 
 Predicting housing prices using machine learning and linear regression. 🤖🏠
 
